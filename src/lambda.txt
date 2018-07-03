@@ -1,0 +1,22 @@
+Some lambda TUTS
+https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa9YGfyhyW2CqdtW9RtY-I3
+
+			
+for lambda to work ** The variable holding the lambda should be of type INTERFACE and the lambda has 
+the same signature as the interface's single method aka. functional interface
+
+Major differences  between Functional programming and OOP:
+
+Functional
+	-	write more readable code and maintainable 
+	-	bloc of code as values
+	
+OOP
+	-	all code is associated to a class or object
+	-	CANNOT assign a method to a variable *not a result* but the code itself
+	
+	
+CLOSURE 
+	-	 cannot change the variable once instantiated inside the lambda
+			
+			
