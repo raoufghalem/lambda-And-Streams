@@ -1,6 +1,6 @@
 Some lambda TUTS
 https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa9YGfyhyW2CqdtW9RtY-I3
-
+l
 			
 for lambda to work ** The variable holding the lambda should be of type INTERFACE and the lambda has 
 the same signature as the interface's single method aka. functional interface
